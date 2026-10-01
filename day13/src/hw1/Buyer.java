@@ -1,6 +1,6 @@
-package hw;
+package hw1;
 
-public class Buyer extends AdminStaff{
+public class Buyer extends AdminStaff {
 
     public Buyer() {
 

@@ -1,4 +1,4 @@
-package hw;
+package hw1;
 
 public class Tutor extends Teacher {
 

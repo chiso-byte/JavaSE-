@@ -1,4 +1,4 @@
-package hw;
+package hw1;
 
 public class Maintainer extends AdminStaff {
     public Maintainer() {}

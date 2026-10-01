@@ -1,6 +1,6 @@
-package hw;
+package hw1;
 
-public class Lecture extends Teacher{
+public class Lecture extends Teacher {
 
     public Lecture() {}
 
